@@ -10065,6 +10065,7 @@ For details on how to access them, please see :class:`GSLayer.hints`
 		otherNode1
 		otherNode2
 		type
+		options
 		horizontal
 		selected
 		isTrueType
