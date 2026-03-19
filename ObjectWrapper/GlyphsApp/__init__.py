@@ -11866,6 +11866,7 @@ For details on how to access them, please see :class:`GSLayer.hints`
 		otherIndex1
 		otherIndex2
 		type
+		options
 		horizontal
 		selected
 		isTrueType
